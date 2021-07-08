@@ -102,7 +102,7 @@ function App() {
           Footer
         </Typography>
         <Typography variant="subtitle1" align="center" color="text secondary">
-          Put the purpose of the footer here
+          Andurebel 2021
         </Typography>
       </footer>
     </>
